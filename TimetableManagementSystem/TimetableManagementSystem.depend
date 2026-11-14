@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1794660429 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\assignment.cpp
+	"assignment.hpp"
+	<iostream>
+
+1794660429 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\datamanager.cpp
+	"datamanager.hpp"
+	<iostream>
+
+1794660854 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\faculty.cpp
+	"faculty.hpp"
+	<iostream>
+
+1794660714 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\graph.cpp
+	"graph.hpp"
+	<iostream>
+
+1794662307 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\main.cpp
+	<iostream>
+	"subject.hpp"
+	"faculty.hpp"
+	"room.hpp"
+	"timeslot.hpp"
+	"assignment.hpp"
+	"datamanager.hpp"
+	"graph.hpp"
+	"conflictdetector.hpp"
+	"timetablegenerator.hpp"
+	"roomallocater.hpp"
+	"rescheduler.hpp"
+	"qualityanalyzer.hpp"
+
+1794660429 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\qualityanalyzer.cpp
+	"qualityanalyzer.hpp"
+	<iostream>
+
+1794660429 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\rescheduler.cpp
+	"rescheduler.hpp"
+	<iostream>
+
+1794660429 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\room.cpp
+	"room.hpp"
+	<iostream>
+
+1794660564 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\roomallocater.cpp
+	"roomallocater.hpp"
+	<iostream>
+
+1794660429 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\subject.cpp
+	"subject.hpp"
+
+1794660429 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\timeslot.cpp
+	"timeslot.hpp"
+	<iostream>
+
+1794660429 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\timetablegenerator.cpp
+	"timetablegenerator.hpp"
+	<iostream>
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\assignment.hpp
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\room.hpp
+	<string>
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\datamanager.hpp
+	"subject.hpp"
+	"faculty.hpp"
+	"room.hpp"
+	"timeslot.hpp"
+	"assignment.hpp"
+	<vector>
+
+1794660671 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\subject.hpp
+	<string>
+	<vector>
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\faculty.hpp
+	<string>
+	<vector>
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\timeslot.hpp
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\qualityanalyzer.hpp
+	"datamanager.hpp"
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\rescheduler.hpp
+	"datamanager.hpp"
+	"conflictdetector.hpp"
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\conflictdetector.hpp
+	"assignment.hpp"
+	"datamanager.hpp"
+	"graph.hpp"
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\graph.hpp
+	<vector>
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\roomallocater.hpp
+	"datamanager.hpp"
+
+1794660429 c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\timetablegenerator.hpp
+	"datamanager.hpp"
+	"graph.hpp"
+
+1794661370 source:c:\users\prachi puri\documents\github\greedy-interval-ai-based-timetable-and-meeting-room-conflict-detector\timetablemanagementsystem\conflictdetector.cpp
+	"conflictdetector.hpp"
+	<iostream>
+
